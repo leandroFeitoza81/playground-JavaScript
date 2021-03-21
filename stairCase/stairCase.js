@@ -16,5 +16,3 @@ for (let lineIndex = 0; lineIndex < number; lineIndex += 1) {
   inputPosition -= 1;
 };
 }
-
-stairCase(6)
